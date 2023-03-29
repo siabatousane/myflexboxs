@@ -152,11 +152,10 @@ footer h5{
     .lien{
         display: flex;
         padding: 5px;  
-        justify-content: center; 
         gap: 3px; 
     }
     .lien a{
-        padding: 5px;
+        padding: 3px;
         width: 100px;
        
     }
