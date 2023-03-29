@@ -151,11 +151,12 @@ footer h5{
     }
     .lien{
         display: flex;
-        padding: 5px;  
+        flex-wrap: wrap;
+        padding: 10px;  
         gap: 3px; 
     }
     .lien a{
-        padding: 3px;
+        padding: 5px;
         width: 100px;
        
     }
